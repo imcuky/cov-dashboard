@@ -5,9 +5,9 @@
 <br>
 [3. Tools](#tools)
 <br>
-[4. Other Resources](other-resources)
+[4. Other Resources](#other-resources)
 <br>
-[5. Learn More](learn-more)
+[5. Learn More](#learn-more)
 
 
 ## About
